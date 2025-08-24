@@ -1,0 +1,16 @@
+Employee Management System (Django REST API)
+
+Project Structure:
+├── employee_management/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── employees/
+│   ├── __init__.py
+│   ├── models.py
+│   ├── serializers.py
+│   ├── views.py
+│   └── urls.py
+├── manage.py
+└── requirements.txt
